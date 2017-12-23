@@ -1,0 +1,14 @@
+C:\Users\Cyber-Prophet\source\repos\Nano_Virus_App\Nano_Virus_App\bin\Debug\Nano_Virus_App.exe.config
+C:\Users\Cyber-Prophet\source\repos\Nano_Virus_App\Nano_Virus_App\bin\Debug\Nano_Virus_App.exe
+C:\Users\Cyber-Prophet\source\repos\Nano_Virus_App\Nano_Virus_App\bin\Debug\Nano_Virus_App.pdb
+C:\Users\Cyber-Prophet\source\repos\Nano_Virus_App\Nano_Virus_App\obj\Debug\Nano_Virus_App.Form1.resources
+C:\Users\Cyber-Prophet\source\repos\Nano_Virus_App\Nano_Virus_App\obj\Debug\Nano_Virus_App.Properties.Resources.resources
+C:\Users\Cyber-Prophet\source\repos\Nano_Virus_App\Nano_Virus_App\obj\Debug\Nano_Virus_App.csproj.GenerateResource.Cache
+C:\Users\Cyber-Prophet\source\repos\Nano_Virus_App\Nano_Virus_App\obj\Debug\Nano_Virus_App.csproj.CoreCompileInputs.cache
+C:\Users\Cyber-Prophet\source\repos\Nano_Virus_App\Nano_Virus_App\obj\Debug\Nano_Virus_App.exe
+C:\Users\Cyber-Prophet\source\repos\Nano_Virus_App\Nano_Virus_App\obj\Debug\Nano_Virus_App.pdb
+C:\Users\Cyber-Prophet\source\repos\Nano_Virus_App\Nano_Virus_App\obj\Debug\Nano_Virus_App.csprojResolveAssemblyReference.cache
+C:\Users\Cyber-Prophet\source\repos\Nano_Virus_App\Nano_Virus_App\bin\Debug\Nano_Virus_App.exe.manifest
+C:\Users\Cyber-Prophet\source\repos\Nano_Virus_App\Nano_Virus_App\bin\Debug\Nano_Virus_App.application
+C:\Users\Cyber-Prophet\source\repos\Nano_Virus_App\Nano_Virus_App\obj\Debug\Nano_Virus_App.exe.manifest
+C:\Users\Cyber-Prophet\source\repos\Nano_Virus_App\Nano_Virus_App\obj\Debug\Nano_Virus_App.application
